@@ -1,0 +1,2 @@
+# stocktrading
+sbt run
